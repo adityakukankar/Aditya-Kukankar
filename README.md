@@ -1,8 +1,8 @@
-```javascript
+```epsilon
 language EOL;
 
 class SoftwareEngineer {
-    var name : String = "Zhenye Na";
+    var name : String = "Aditya";
     var role : String = "Software Engineer";
     var languageSpoken : Sequence<String> = Sequence{"zh_CN", "en_US"};
 
