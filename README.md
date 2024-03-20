@@ -42,6 +42,7 @@ fun main() {
 }
 ```
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-adityakukankar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityakukankar/)](https://www.linkedin.com/in/adityakukankar/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/adityakukankar?label=follow&style=social)](https://github.com/adityakukankar)
+[![Linkedin: adityakukankar](https://img.shields.io/badge/-adityakukankar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityakukankar/)](https://www.linkedin.com/in/adityakukankar/)
+[![GitHub Aditya](https://img.shields.io/github/followers/adityakukankar?label=follow&style=social)](https://github.com/adityakukankar)
+![aditya kukankar](https://komarev.com/ghpvc/?username=adityakukankar&color=green&style=social)
 
