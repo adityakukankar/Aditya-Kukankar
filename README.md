@@ -23,7 +23,8 @@ class SoftwareEngineer {
                 "misc": ["Maven", "Git", "Enterprise_Architect", "Liquibase", "IntelliJ IDEA",
 				"Eclipse IDE", "Postman"]
           },
-          "currentFocus": "Currently studying for AWS certifications and learning Go, Kotlin and Kafka.",
+          "currentFocus": "Currently studying for AWS certifications and learning Go, Kotlin
+				and Kafka.",
           "funFact": "There are two states of every programmer:
 			1 - I am inevitable!! 2 - I have no idea what I am doing."
         }
